@@ -1,0 +1,41 @@
+.frator_wrapper{    
+    border: 1px solid #CCCCCC;
+    padding: 3px;
+    width: 240px;
+  }
+  
+  .frator_main{}
+  .frator_main_pic_box{   display: table-cell; vertical-align: middle; height: 247px; width: 240px; text-align: center;}
+    .frator_main_pic_box img{}
+  
+  .frator_tnail_nav{    
+      height: 75px;
+  }
+    .frator_tnail_nav a{    
+        background-color: #0088DE;
+        color: #FFFFFF;
+        font-family: Comic Sans MS;
+        font-size: 30pt;
+        font-weight: bold;
+        height: 75px;
+        width: 25px;
+        line-height: 66px;
+        text-decoration: none;
+        display: block;
+        
+    }
+    .frator_tnail_nav .frator_prev{float:left;   margin-right: 14px;}
+    .frator_tnail_nav .frator_next{float:right;}
+    
+    .frator_tnail_nav .frator_arrow_off{background-color: #BBBBBB;    cursor: default;}
+    .frator_tnail_nav .frator_arrow_on{}
+    
+    
+    .frator_tnail_nav ul{    
+      display: inline;
+      margin: 0;
+      padding: 0;
+    }
+    .frator_tnail_nav ul li{list-style: none outside none; display:inline; margin: 0 2px;}
+      .frator_tnail_nav ul li:hover{cursor:pointer;}
+  
