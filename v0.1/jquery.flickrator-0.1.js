@@ -127,8 +127,8 @@ $.fn.flickrator.widget_mode = function(){
         '</div>' +
         
         '<div class="frator_tnail_nav">' +
-        '  <a href="#frator_main" class="frator_prev frator_arrow_off">&lt</a>' +
-        '  <a href="#frator_main" class="frator_next frator_arrow_on">&gt</a>' +
+        '  <a href="#frator_empty" class="frator_prev frator_arrow_off">&lt</a>' +
+        '  <a href="#frator_empty" class="frator_next frator_arrow_on">&gt</a>' +
         '  <ul>' +
         '    <li><img src="'+pic_urls[0]+'" alt=" "/></li>' +
         '    <li><img src="'+pic_urls[1]+'" alt=" "/></li>' +
